@@ -39,7 +39,7 @@ Use every approved style (defaults: all styles; zones: .com .net .org .io .app .
 
 Never use digits for words (4you), acronyms, or person/animal names.
 
-Before checking, drop names that fail the checklist: at most two words — a prefix or suffix like get-/try-/-hq/-online counts as a word, so getvideoeditor or videoeditorhq is out; no keyword strings, even if I ask for SEO (then use one keyword plus one short word: cutly, clipforge); must pass the radio test (heard once, spelled right — no homophones, no B/P/D/T confusion); no digits; no awkward reading at a word boundary (expertsexchange, penisland); second level ideally ≤ 8 characters, at most ~12–15; pronounceable, 2–3 syllables; no bad meaning in major languages (es, pt, fr, de, ru, ar, hi, zh, ja); Latin letters only (no IDN); not within 1–2 letters of a well-known brand, and not a brand plus a generic word. Avoid look-alikes (l/I/1, 0/o, rn/m); double letters only when they are the joke (Fiverr).
+Before checking, drop names that fail the checklist: at most two words — a prefix or suffix like get-/try-/-hq/-online counts as a word, so getvideoeditor or videoeditorhq is out; no keyword strings, even if I ask for SEO (then use one keyword plus one short word: cutly, clipforge); must pass the radio test (heard once, spelled right — no homophones, no B/P/D/T confusion); no digits; no awkward or rude reading where the words meet; second level ideally ≤ 8 characters, at most ~12–15; pronounceable, 2–3 syllables; no bad meaning in major languages (es, pt, fr, de, ru, ar, hi, zh, ja); Latin letters only (no IDN); not within 1–2 letters of a well-known brand, and not a brand plus a generic word. Avoid look-alikes (l/I/1, 0/o, rn/m); double letters only when they add something: the joke (Fiverr) or a doubled vowel that makes a word softer and ownable (lava → laava).
 
 Aim for several hundred name × zone combinations — enough to fill 50 available results.
 
@@ -87,7 +87,16 @@ Every domain gets exactly one status: **taken**, **available**, or **unknown**. 
 
 ## Step 4 — Rank and show
 
-Rate each available domain by your own judgement: readability, beauty, memorability, radio test, length, fit to the project. Be strict: 9–10 only for short (≤ 8–10 characters), one- or two-word names that sound like a brand; a hyphen costs at least 2 points; generic descriptive pairs (onlinevideo, videotool) score 6 at most. A hack is best when the brand *is* the hack; otherwise prefer names whose .com is also free.
+Score each available domain out of 10 by your own judgement, and be strict — a 9–10 should be rare. What a great domain looks like:
+
+- **Short and brandable:** sounds like a company, not a description — Slack, Hulu, Zoom, Etsy, Lyft, vlogjam. Shorter is better; 6–8 characters is the sweet spot.
+- **Easy to say and spell:** passes the radio test, two or three syllables, rhythm or alliteration helps (PayPal, TikTok), pronounceable in most languages.
+- **A free .com is rare and worth a lot** — rank it above the same quality in another zone. Familiar zones (.io .ai .app .co .dev .net .org) come next; an unusual zone only when it's a hack that is the brand (bit.ly).
+- **Fits the project:** hints at what it does or carries one keyword, without being a keyword string.
+
+What lowers it: hyphens, descriptive pairs (onlinevideo, videotool), filler prefixes and suffixes (get-, try-, my-, -app, -hq, -online), spellings you'd have to explain, harsh consonant clusters, long words, trendy words that will age, closeness to a known brand, and repeating the same first word across the list.
+
+Sort best first.
 
 Reply in exactly this shape, nothing before it (exception: if nothing could be checked, say so in one line first, and label the list as unverified leads instead of available domains):
 
