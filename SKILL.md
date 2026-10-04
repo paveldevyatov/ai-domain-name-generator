@@ -34,6 +34,14 @@ If you can only browse the web (no commands), say 1,200+ instead of 1,350+; if y
 
 ## Step 2 — Generate hundreds of names
 
+Aim every name at what a great domain looks like:
+
+- **Plain real words win:** one or two ordinary words, unbent, easy to say and clear at first hearing — cutdesk, Dropbox, YouTube, Slack, Zoom. These rank highest. Blends, bent spellings and made-up words rank above them only when they are obviously better; most aren't. Shorter is better; 6–8 characters is the sweet spot.
+- **Easy to say and spell:** passes the radio test, two or three syllables, rhythm or alliteration helps (PayPal, TikTok), pronounceable in most languages.
+- **Fits the project:** hints at what it does or carries one keyword, without being a keyword string.
+
+Plain descriptive pairs (onlinevideo, videotool) and simple prefixes or suffixes (getvideo, videohq) are fine. What lowers it: hyphens, forced blends and made-up words that need explaining (clipopia), spellings you'd have to explain, harsh consonant clusters, closeness to a known brand, and repeating the same first word across the list.
+
 Use every approved style (defaults: all styles; zones: .com .net .org .io .app .ai .co .dev, plus any I name):
 
 - **blends** (Pinterest, Netflix) · **two words** (YouTube, Dropbox) · **get-/try-/use-/go-/hey-, -hq/-app/-labs/-hub** · **puns and phonetic spellings** (Reddit = "read it", Kwik) · **clipping** (Insta) · **made-up pronounceable words** (Hulu, Etsy) · **Latin/Greek roots** (Nova, Lumen) · **metaphors** (Amazon, Slack) · **rhymes/doubling** (PayPal, TikTok) · **sounds** (Zoom, Hum) · **word + animal**: a project word paired with an animal you pick yourself, unexpected beats obvious (screamingfrog, mailchimp);
@@ -92,16 +100,7 @@ Every domain gets exactly one status: **taken**, **available**, or **unknown**. 
 
 ## Step 4 — Rank and show
 
-Score each available domain out of 10 by your own judgement, and be strict — a 9–10 should be rare. What a great domain looks like:
-
-- **Plain real words win:** one or two ordinary words, unbent, easy to say and clear at first hearing — cutdesk, Dropbox, YouTube, Slack, Zoom. These rank highest. Blends, bent spellings and made-up words rank above them only when they are obviously better; most aren't. Shorter is better; 6–8 characters is the sweet spot.
-- **Easy to say and spell:** passes the radio test, two or three syllables, rhythm or alliteration helps (PayPal, TikTok), pronounceable in most languages.
-- **A free .com is rare and worth a lot** — rank it above the same quality in another zone. Familiar zones (.io .ai .app .co .dev .net .org) come next; an unusual zone only when it's a hack that is the brand (bit.ly).
-- **Fits the project:** hints at what it does or carries one keyword, without being a keyword string.
-
-Plain descriptive pairs (onlinevideo, videotool) and simple prefixes or suffixes (getvideo, videohq) are fine. What lowers it: hyphens, forced blends and made-up words that need explaining (clipopia), spellings you'd have to explain, harsh consonant clusters, closeness to a known brand, and repeating the same first word across the list.
-
-Sort best first.
+Score each available domain out of 10 against the criteria in Step 2, by your own judgement, and be strict — a 9–10 should be rare. Sort best first.
 
 Reply in exactly this shape, nothing before it (exception: if nothing could be checked, say so in one line first, and label the list as unverified leads instead of available domains):
 
