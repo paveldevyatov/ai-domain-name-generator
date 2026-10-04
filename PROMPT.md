@@ -94,7 +94,7 @@ Score each available domain out of 10 by your own judgement, and be strict — a
 - **A free .com is rare and worth a lot** — rank it above the same quality in another zone. Familiar zones (.io .ai .app .co .dev .net .org) come next; an unusual zone only when it's a hack that is the brand (bit.ly).
 - **Fits the project:** hints at what it does or carries one keyword, without being a keyword string.
 
-What lowers it: hyphens, bland pairs that say nothing (onlinevideo, videotool), forced blends and made-up words that need explaining (clipopia), filler prefixes and suffixes (get-, try-, my-, -app, -hq, -online), spellings you'd have to explain, harsh consonant clusters, long words, trendy words that will age, closeness to a known brand, and repeating the same first word across the list.
+Plain descriptive pairs (onlinevideo, videotool) and simple prefixes or suffixes (getvideo, videohq) are fine. What lowers it: hyphens, forced blends and made-up words that need explaining (clipopia), spellings you'd have to explain, harsh consonant clusters, closeness to a known brand, and repeating the same first word across the list.
 
 Sort best first.
 
