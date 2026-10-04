@@ -14,7 +14,7 @@ A couple of questions — only the first is required.
 **1. Tell me about the project ✍️**
 Keywords or a couple of sentences. You can attach a file.
 
-**2. Search styles** (default: all except hyphens): blends (Pinterest) · two words (YouTube) · get-/try-/-hq (getdropbox) · puns (Reddit) · clipping (Insta) · made-up words (Hulu) · Latin/Greek (Lumen) · metaphors (Slack) · rhymes (TikTok) · sounds (Zoom) · playful spellings (Flickr, Fiverr) · domain hacks (bit.ly) · transliteration (kinopoisk.ru) · hyphens (coca-cola.com)
+**2. Search styles** (default: all): blends (Pinterest) · two words (YouTube) · get-/try-/-hq (getdropbox) · puns (Reddit) · clipping (Insta) · made-up words (Hulu) · Latin/Greek (Lumen) · metaphors (Slack) · rhymes (TikTok) · sounds (Zoom) · playful spellings (Flickr, Fiverr) · domain hacks (bit.ly) · transliteration (kinopoisk.ru) · hyphens (coca-cola.com)
 
 **3. Zones:** .com .net .org .io .app .ai .co .dev — or name your own.
 
@@ -24,13 +24,13 @@ If you can only browse the web (no commands), say 1,200+ instead of 1,350+; if y
 
 ## Step 2 — Generate hundreds of names
 
-Use every approved style (defaults: all except hyphens; zones: .com .net .org .io .app .ai .co .dev, plus any I name):
+Use every approved style (defaults: all styles; zones: .com .net .org .io .app .ai .co .dev, plus any I name):
 
 - **blends** (Pinterest, Netflix) · **two words** (YouTube, Dropbox) · **get-/try-/use-/go-/hey-, -hq/-app/-labs/-hub** · **puns and phonetic spellings** (Reddit = "read it", Kwik) · **clipping** (Insta) · **made-up pronounceable words** (Hulu, Etsy) · **Latin/Greek roots** (Nova, Lumen) · **metaphors** (Amazon, Slack) · **rhymes/doubling** (PayPal, TikTok) · **sounds** (Zoom, Hum);
 - **playful spellings**: -ly/-ify/-y/-ie/-oo/-io endings (Calendly, Shopify), dropped vowels (Flickr), letter swaps (Lyft), doubled letters (Fiverr);
 - **domain hacks**: the zone finishes the word, bending a letter if needed (bit.ly, instagr.am, del.icio.us). Useful endings: .ly (quickly), .io (studio, radio), .sh (fresh, cash), .is (this, axis), .am (gram), .me (time, name), .in (login, join), .to ("go to"), .id (grid, valid), .so (also), .be (youtube), .gg (egg), .gl (angle), .do (todo), .us (focus), .it (habit, edit), .re (store, share);
 - **transliteration**: words from my language spelled in Latin letters (kinopoisk.ru for "кинопоиск", film search) — skip if my language is English;
-- **hyphens** only if I ask for them.
+- **hyphens**: words joined by a hyphen (coca-cola.com) — rank one below the same name without the hyphen when that is free too.
 
 Never use digits for words (4you), acronyms, or person/animal names.
 
