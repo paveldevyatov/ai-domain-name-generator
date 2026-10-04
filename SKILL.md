@@ -94,12 +94,12 @@ Every domain gets exactly one status: **taken**, **available**, or **unknown**. 
 
 Score each available domain out of 10 by your own judgement, and be strict — a 9–10 should be rare. What a great domain looks like:
 
-- **Short and brandable:** sounds like a company, not a description — Slack, Hulu, Zoom, Etsy, Lyft, vlogjam. Shorter is better; 6–8 characters is the sweet spot.
+- **Plain real words win:** one or two ordinary words, unbent, easy to say and clear at first hearing — cutdesk, Dropbox, YouTube, Slack, Zoom. These rank highest. Blends, bent spellings and made-up words rank above them only when they are obviously better; most aren't. Shorter is better; 6–8 characters is the sweet spot.
 - **Easy to say and spell:** passes the radio test, two or three syllables, rhythm or alliteration helps (PayPal, TikTok), pronounceable in most languages.
 - **A free .com is rare and worth a lot** — rank it above the same quality in another zone. Familiar zones (.io .ai .app .co .dev .net .org) come next; an unusual zone only when it's a hack that is the brand (bit.ly).
 - **Fits the project:** hints at what it does or carries one keyword, without being a keyword string.
 
-What lowers it: hyphens, descriptive pairs (onlinevideo, videotool), filler prefixes and suffixes (get-, try-, my-, -app, -hq, -online), spellings you'd have to explain, harsh consonant clusters, long words, trendy words that will age, closeness to a known brand, and repeating the same first word across the list.
+What lowers it: hyphens, bland pairs that say nothing (onlinevideo, videotool), forced blends and made-up words that need explaining (clipopia), filler prefixes and suffixes (get-, try-, my-, -app, -hq, -online), spellings you'd have to explain, harsh consonant clusters, long words, trendy words that will age, closeness to a known brand, and repeating the same first word across the list.
 
 Sort best first.
 
