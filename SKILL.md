@@ -43,7 +43,7 @@ If you can only browse the web (no commands), say 1,200+ instead of 1,350+; if y
 
 ### What a great domain looks like
 
-Aim every name at this; Step 4 scores against it too.
+Aim every name at this; Step 4 scores against it too. These are recommendations for taste, not hard rules.
 
 - **Plain real words win:** one or two ordinary words, unbent, easy to say and clear at first hearing — cutdesk, Dropbox, YouTube, Slack, Zoom. These rank highest. Blends, bent spellings and made-up words rank above them only when they are obviously better; most aren't. Shorter is better; 6–8 characters is the sweet spot.
 - **Easy to say and spell:** passes the radio test, two or three syllables, rhythm or alliteration helps (PayPal, TikTok), pronounceable in most languages.
@@ -52,7 +52,17 @@ Aim every name at this; Step 4 scores against it too.
 - **Concrete over abstract:** things you can picture (desk, box, kit, lab, room) beat abstractions — editkit, not editsolution.
 - **Looks good written:** clean in lowercase like a logo, no clumsy letter runs (rnm, lll) — editkit, cutlab, not trimmvid.
 
-Plain descriptive pairs (onlinevideo, videotool) and simple prefixes or suffixes (getvideo, videohq) are fine. What lowers it: hyphens, forced blends and made-up words that need explaining (clipopia), spellings you'd have to explain, harsh consonant clusters, closeness to a known brand, and repeating the same first word across the list.
+Usually weaker (a recommendation, not a ban):
+
+- three or more words, counting prefixes and suffixes — getvideoeditor, videoeditorhq; keyword strings even for SEO (then one keyword plus one short word: cutly, clipforge);
+- hyphens, digits for words (4you), acronyms, person names;
+- forced blends and made-up words that need explaining (clipopia), spellings you'd have to explain or homophones;
+- harsh consonant clusters, look-alike letters (l/I/1, 0/o, rn/m), an awkward or rude reading where the words meet;
+- a bad meaning in a major language, non-Latin letters, long names (13+ characters);
+- closeness to a known brand, or a brand plus a generic word;
+- the same first word repeated across the list.
+
+Plain descriptive pairs (onlinevideo, videotool) and simple prefixes or suffixes (getvideo, videohq) are fine. Double letters work when they add something — the joke (Fiverr) or a doubled vowel that makes a word softer and ownable (lava → laava). These are guidelines: a name that breaks one but is clearly great can still make the list.
 
 ### Search styles
 
@@ -63,10 +73,6 @@ Use every approved style (defaults: all styles; zones: .com .net .org .io .app .
 - **domain hacks**: the zone finishes the word, bending a letter if needed (bit.ly, instagr.am, del.icio.us). Useful endings: .ly (quickly), .io (studio, radio), .sh (fresh, cash), .is (this, axis), .am (gram), .me (time, name), .in (login, join), .to ("go to"), .id (grid, valid), .so (also), .be (youtube), .gg (egg), .gl (angle), .do (todo), .us (focus), .it (habit, edit), .re (store, share);
 - **transliteration**: words from my language spelled in Latin letters (kinopoisk.ru for "кинопоиск", film search) — skip if my language is English;
 - **hyphens**: words joined by a hyphen (coca-cola.com) — a hyphen always lowers the score.
-
-### Filter before checking
-
-Never use digits for words (4you), acronyms, or person names. Drop names that fail the checklist: at most two words — a prefix or suffix like get-/try-/-hq/-online counts as a word, so getvideoeditor or videoeditorhq is out; no keyword strings, even if I ask for SEO (then use one keyword plus one short word: cutly, clipforge); must pass the radio test (heard once, spelled right — no homophones, no B/P/D/T confusion); no digits; no awkward or rude reading where the words meet; second level ideally ≤ 8 characters, at most ~12–15; pronounceable, 2–3 syllables; no bad meaning in major languages (es, pt, fr, de, ru, ar, hi, zh, ja); Latin letters only (no IDN); not within 1–2 letters of a well-known brand, and not a brand plus a generic word. Avoid look-alikes (l/I/1, 0/o, rn/m); double letters only when they add something: the joke (Fiverr) or a doubled vowel that makes a word softer and ownable (lava → laava).
 
 Aim for several hundred name × zone combinations — enough to fill 50 available results.
 

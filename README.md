@@ -27,7 +27,7 @@ It installs as `find-domain` and starts when you ask for a domain name or whethe
 
 From your description the AI builds hundreds of candidates in the styles you allow: blends (Pinterest), two words (YouTube), get-/try- prefixes, puns (Reddit), made-up words (Hulu), Latin roots (Lumen), metaphors (Slack), playful spellings (Flickr, Fiverr), domain hacks where the zone finishes the word (bit.ly), and your own language spelled in Latin letters (kinopoisk.ru). Default zones: .com .net .org .io .app .ai .co .dev, or any you name.
 
-It throws out names that fail the basics before checking: the radio test, digits, awkward word splits, too long, bad meanings in major languages, too close to a famous brand.
+It steers away from weak names before checking: the radio test, digits, awkward word splits, too long, bad meanings in major languages, too close to a famous brand.
 
 ### ✅ Check — at the registry, not a guess
 
