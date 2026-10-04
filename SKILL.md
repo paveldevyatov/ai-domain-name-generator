@@ -24,7 +24,7 @@ A couple of questions — only the first is required.
 **1. Tell me about the project ✍️**
 Keywords or a couple of sentences. You can attach a file.
 
-**2. Search styles** (default: all): blends (Pinterest) · two words (YouTube) · get-/try-/-hq (getdropbox) · puns (Reddit) · clipping (Insta) · made-up words (Hulu) · Latin/Greek (Lumen) · metaphors (Slack) · rhymes (TikTok) · sounds (Zoom) · playful spellings (Flickr, Fiverr) · domain hacks (bit.ly) · transliteration (kinopoisk.ru) · hyphens (coca-cola.com)
+**2. Search styles** (default: all): blends (Pinterest) · two words (YouTube) · get-/try-/-hq (getdropbox) · puns (Reddit) · clipping (Insta) · made-up words (Hulu) · Latin/Greek (Lumen) · metaphors (Slack) · rhymes (TikTok) · sounds (Zoom) · word + animal (screamingfrog) · playful spellings (Flickr, Fiverr) · domain hacks (bit.ly) · transliteration (kinopoisk.ru) · hyphens (coca-cola.com)
 
 **3. Zones:** .com .net .org .io .app .ai .co .dev — or name your own.
 
@@ -36,13 +36,13 @@ If you can only browse the web (no commands), say 1,200+ instead of 1,350+; if y
 
 Use every approved style (defaults: all styles; zones: .com .net .org .io .app .ai .co .dev, plus any I name):
 
-- **blends** (Pinterest, Netflix) · **two words** (YouTube, Dropbox) · **get-/try-/use-/go-/hey-, -hq/-app/-labs/-hub** · **puns and phonetic spellings** (Reddit = "read it", Kwik) · **clipping** (Insta) · **made-up pronounceable words** (Hulu, Etsy) · **Latin/Greek roots** (Nova, Lumen) · **metaphors** (Amazon, Slack) · **rhymes/doubling** (PayPal, TikTok) · **sounds** (Zoom, Hum);
+- **blends** (Pinterest, Netflix) · **two words** (YouTube, Dropbox) · **get-/try-/use-/go-/hey-, -hq/-app/-labs/-hub** · **puns and phonetic spellings** (Reddit = "read it", Kwik) · **clipping** (Insta) · **made-up pronounceable words** (Hulu, Etsy) · **Latin/Greek roots** (Nova, Lumen) · **metaphors** (Amazon, Slack) · **rhymes/doubling** (PayPal, TikTok) · **sounds** (Zoom, Hum) · **word + animal**: a project word paired with an animal you pick yourself, unexpected beats obvious (screamingfrog, mailchimp);
 - **playful spellings**: -ly/-ify/-y/-ie/-oo/-io endings (Calendly, Shopify), dropped vowels (Flickr), letter swaps (Lyft), doubled letters (Fiverr);
 - **domain hacks**: the zone finishes the word, bending a letter if needed (bit.ly, instagr.am, del.icio.us). Useful endings: .ly (quickly), .io (studio, radio), .sh (fresh, cash), .is (this, axis), .am (gram), .me (time, name), .in (login, join), .to ("go to"), .id (grid, valid), .so (also), .be (youtube), .gg (egg), .gl (angle), .do (todo), .us (focus), .it (habit, edit), .re (store, share);
 - **transliteration**: words from my language spelled in Latin letters (kinopoisk.ru for "кинопоиск", film search) — skip if my language is English;
 - **hyphens**: words joined by a hyphen (coca-cola.com) — a hyphen always lowers the score.
 
-Never use digits for words (4you), acronyms, or person/animal names.
+Never use digits for words (4you), acronyms, or person names.
 
 Before checking, drop names that fail the checklist: at most two words — a prefix or suffix like get-/try-/-hq/-online counts as a word, so getvideoeditor or videoeditorhq is out; no keyword strings, even if I ask for SEO (then use one keyword plus one short word: cutly, clipforge); must pass the radio test (heard once, spelled right — no homophones, no B/P/D/T confusion); no digits; no awkward or rude reading where the words meet; second level ideally ≤ 8 characters, at most ~12–15; pronounceable, 2–3 syllables; no bad meaning in major languages (es, pt, fr, de, ru, ar, hi, zh, ja); Latin letters only (no IDN); not within 1–2 letters of a well-known brand, and not a brand plus a generic word. Avoid look-alikes (l/I/1, 0/o, rn/m); double letters only when they add something: the joke (Fiverr) or a doubled vowel that makes a word softer and ownable (lava → laava).
 
