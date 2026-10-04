@@ -34,6 +34,9 @@ Aim every name at what a great domain looks like:
 - **Plain real words win:** one or two ordinary words, unbent, easy to say and clear at first hearing — cutdesk, Dropbox, YouTube, Slack, Zoom. These rank highest. Blends, bent spellings and made-up words rank above them only when they are obviously better; most aren't. Shorter is better; 6–8 characters is the sweet spot.
 - **Easy to say and spell:** passes the radio test, two or three syllables, rhythm or alliteration helps (PayPal, TikTok), pronounceable in most languages.
 - **Fits the project:** hints at what it does or carries one keyword, without being a keyword string.
+- **Natural word order:** reads like a real English phrase, verb or adjective before the noun — cutdesk, Dropbox, YouTube, not deskcut or boxdrop.
+- **Concrete over abstract:** things you can picture (desk, box, kit, lab, room) beat abstractions — editkit, not editsolution.
+- **Looks good written:** clean in lowercase like a logo, no clumsy letter runs (rnm, lll) — editkit, cutlab, not trimmvid.
 
 Plain descriptive pairs (onlinevideo, videotool) and simple prefixes or suffixes (getvideo, videohq) are fine. What lowers it: hyphens, forced blends and made-up words that need explaining (clipopia), spellings you'd have to explain, harsh consonant clusters, closeness to a known brand, and repeating the same first word across the list.
 
