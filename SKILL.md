@@ -124,7 +124,7 @@ Still generate and rank, but say plainly at the top that nothing was checked, an
 | ws · st | whois.website.ws · whois.nic.st | `The queried object does not exist` · `No entries found` |
 | ru | whois.tcinet.ru | `No entries found` |
 
-**Can't be checked automatically:** .es and .pt (their whois servers don't answer), .tk, and any zone with neither RDAP nor a working whois. Mark them unknown and give me the registry site: https://www.iana.org/domains/root/db/<tld>.html. Never make up other lookup links.
+Any zone you can't check this way is unknown — say so, never guess.
 
 ## Step 4 — Rank and show the best 50
 

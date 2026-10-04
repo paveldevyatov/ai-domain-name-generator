@@ -46,7 +46,7 @@ Only verified-free domains make the list, sorted by readability, memorability, r
 ## ⚠️ Honest limits
 
 - **"Free" in the registry isn't always registrable.** Reserved names only show up at a registrar. Confirm there before you buy.
-- **Some zones can't be checked by machine** — for example .es and .pt. They're reported as unchecked, with a link to check by hand.
+- **Some zones can't be checked by machine.** They're reported as unchecked, never guessed.
 - **Trademarks are on you.** The AI avoids famous brands, but a real trademark search is manual (TMview, USPTO). This is not legal advice.
 - Availability changes by the minute; a name free today can be gone tomorrow.
 
