@@ -99,8 +99,6 @@ Every domain gets exactly one status: **taken**, **available**, or **unknown**. 
 
 **Can't be checked automatically:** .es and .pt (their whois servers don't answer), .tk, and any zone with neither RDAP nor a working whois. Mark them unknown and give me the registry site: https://www.iana.org/domains/root/db/<tld>.html. Never make up other lookup links.
 
-**Who can register** — flag on the line, or warn once if I picked the zone myself: .it, .eu, .fr, .re — EU/EEA residents only (.it also CH/UK; .fr/.re also CH) · .es — needs ties to Spain · .us — needs a US connection · .ca, .au — local presence · .ly — names under 4 letters need a Libyan presence · .ru — Russian Gosuslugi ID check · .ua — only trademark owners · .kz — hosting in Kazakhstan · .io — long-term risk: the zone may be retired after the Chagos handover · .app, .dev — the site must use HTTPS. For zones not listed here, don't guess the rules — tell me to check them on the registry site.
-
 ## Step 4 — Rank and show
 
 Score each available domain out of 10 against the criteria in Step 2, by your own judgement, and be strict — a 9–10 should be rare. Sort best first.
