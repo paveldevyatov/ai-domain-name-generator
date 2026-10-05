@@ -2,7 +2,14 @@
 
 # 🔍 AI Domain Name Generator
 
-A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into a domain name generator and domain availability checker in one. Describe your project in a sentence — it brainstorms hundreds of names (domain hacks like bit.ly included), runs a real domain name search at the registries, and gives you the top 50 that are actually free to register, best first, each with a score. If it couldn't check a zone, it tells you so instead of guessing.
+A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into a domain name generator and domain availability checker in one. Describe your project in a sentence — get the top 50 domains that are actually free to register.
+
+- 🌍 **Checks 1,350+ of 1,437 domain zones automatically** — right at the registries (RDAP and whois), not a guess.
+- 🧩 **Domain hacks included** — names where the zone finishes the word, like bit.ly.
+- 💡 **Hundreds of names in 15 styles** — blends, puns, metaphors, made-up words, your own language in Latin letters, and more.
+- 🏆 **Only free domains, best first** — the top 50, each scored out of 10; taken names never shown.
+- 🙅 **Honest** — a zone it couldn't check is marked unchecked, never "available".
+- 🔌 **Works anywhere** — paste into any AI, or install as a skill in Claude Code, Codex or Cursor.
 
 A domain finder with no jargon and no endless "sorry, taken" searches. 🙌
 
