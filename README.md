@@ -1,3 +1,5 @@
+![A bloodhound puppy sniffing out a domain in a rainy noir alley](cover.jpeg)
+
 # 🔍 AI Domain Name Generator
 
 A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into a domain name generator and domain availability checker in one. Describe your project in a sentence — it brainstorms hundreds of names (domain hacks like bit.ly included), runs a real domain name search at the registries, and gives you the top 50 that are actually free to register, best first, each with a score. If it couldn't check a zone, it tells you so instead of guessing.
