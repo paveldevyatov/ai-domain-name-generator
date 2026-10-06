@@ -1,4 +1,4 @@
-![A bloodhound puppy sniffing out a domain in a rainy noir alley](cover.jpeg)
+![A pixel bloodhound in a fedora digging up a glowing treasure chest under a rainy noir street](cover.jpeg)
 
 # 🔍 AI Domain Name Generator
 
